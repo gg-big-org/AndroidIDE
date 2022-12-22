@@ -34,11 +34,11 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
       <sub><b>1072 words</b></sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/dd13b7a47f084fab31e4a75c939eaf82.jpeg" />
+      <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" />
         <br />
         <sub><b>Andi Hasan A (andihasan97)</b></sub></a>
       <br />
-      <sub><b>938 words</b></sub>
+      <sub><b>941 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/friostd"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15549279/medium/2d1718f34c949d5df55e346a0d6e5cb0.jpeg" />
